@@ -1,4 +1,4 @@
-# Music GA
+# Music Genetic Algorithm
 
 Made for the class: **CSC 416 - AI1**
 
