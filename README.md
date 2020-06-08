@@ -1,4 +1,4 @@
-# Music-GA
+# Music GA
 
 Made for the class: **CSC 416 - AI1**
 
